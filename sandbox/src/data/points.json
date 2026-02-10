@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1001,
+      "properties": { "code": "PT1", "name": "West Station A", "parentCode": "P1", "value": 11.2 },
+      "geometry": { "type": "Point", "coordinates": [26.5, 50.0] }
+    },
+    {
+      "type": "Feature",
+      "id": 1002,
+      "properties": { "code": "PT2", "name": "West Station B", "parentCode": "P1", "value": 6.8 },
+      "geometry": { "type": "Point", "coordinates": [26.5, 48.0] }
+    },
+    {
+      "type": "Feature",
+      "id": 1003,
+      "properties": { "code": "PT3", "name": "East Station A", "parentCode": "P2", "value": 14.5 },
+      "geometry": { "type": "Point", "coordinates": [35.0, 50.0] }
+    },
+    {
+      "type": "Feature",
+      "id": 1004,
+      "properties": { "code": "PT4", "name": "East Station B", "parentCode": "P2", "value": 4.1 },
+      "geometry": { "type": "Point", "coordinates": [35.0, 47.5] }
+    }
+  ]
+}

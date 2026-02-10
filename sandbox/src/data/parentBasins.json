@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": { "code": "P1", "name": "Western Basin" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[24, 47], [29, 47], [29, 51], [24, 51], [24, 47]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": { "code": "P2", "name": "Eastern Basin" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[32, 47], [38, 47], [38, 51], [32, 51], [32, 47]]]
+      }
+    }
+  ]
+}

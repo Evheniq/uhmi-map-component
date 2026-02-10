@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 101,
+      "properties": { "code": "C1", "name": "Upper West", "parentCode": "P1", "value": 12.5 },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[24, 49], [29, 49], [29, 51], [24, 51], [24, 49]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102,
+      "properties": { "code": "C2", "name": "Lower West", "parentCode": "P1", "value": 5.1 },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[24, 47], [29, 47], [29, 49], [24, 49], [24, 47]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 201,
+      "properties": { "code": "C3", "name": "Upper East", "parentCode": "P2", "value": 15.0 },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[32, 49], [38, 49], [38, 51], [32, 51], [32, 49]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 202,
+      "properties": { "code": "C4", "name": "Middle East", "parentCode": "P2", "value": 8.3 },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[32, 48], [38, 48], [38, 49], [32, 49], [32, 48]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 203,
+      "properties": { "code": "C5", "name": "Lower East", "parentCode": "P2", "value": 3.2 },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[32, 47], [38, 47], [38, 48], [32, 48], [32, 47]]]
+      }
+    }
+  ]
+}
